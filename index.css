@@ -1,0 +1,64 @@
+
+body {
+	background-color: black;
+}
+
+.navbar {
+		background-color: black;
+	}
+.fixed-bottom {
+	height: 150px;
+}
+
+
+
+/* IMG CSS */
+	.img-profil {
+		width: 45px;
+		height: 45px;
+		border-radius: 50%;
+		margin-top: 10px;
+	}
+	.img-message {
+		margin-left: 80px;
+		margin-top: 13px;
+		width: 45px;
+		height: 45px;
+	}
+	.img-pp {
+		width: 60px;
+		height: 60px;
+		margin-left: 30px;
+		border-radius: 50%;
+	}
+/**/
+
+/*Font*/
+#beranda {
+	font-family: 'Noto Sans JP', sans-serif;
+	color: white;
+	margin-left: ;
+	margin-top: 15px;
+	
+}
+.nama {
+	font-family: 'Roboto', sans-serif;
+	color: white;
+	margin-left: -110px;
+}
+.postingan {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300px;
+	color: white;
+}
+.waktu {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100px;
+	color: white;
+}
+/* */
+
+/*Content*/
+.content {
+	margin-top: 80px;
+}
